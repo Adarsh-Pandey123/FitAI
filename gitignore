@@ -1,0 +1,17 @@
+# Secret keys — NEVER push this
+.streamlit/secrets.toml
+
+# ML model files (regenerated locally)
+*.pkl
+fitness_data.csv
+progress_history.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db

@@ -2,8 +2,7 @@
 .streamlit/secrets.toml
 
 # ML model files (regenerated locally)
-*.pkl
-fitness_data.csv
+
 progress_history.json
 
 # Python

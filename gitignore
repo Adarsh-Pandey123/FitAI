@@ -1,16 +1,5 @@
-# Secret keys — NEVER push this
-.streamlit/secrets.toml
-
-# ML model files (regenerated locally)
-
-progress_history.json
-
-# Python
 venv/
 __pycache__/
+.streamlit/secrets.toml
+progress_history.json
 *.pyc
-.env
-
-# OS
-.DS_Store
-Thumbs.db

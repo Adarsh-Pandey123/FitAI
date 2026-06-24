@@ -4,7 +4,7 @@
 
 A production-ready fitness web app combining **Machine Learning** and **Large Language Models** to deliver personalized Indian diet and workout plans — all in a clean, dark UI.
 
-🔗 **Live Demo:** [your-app.streamlit.app](https://your-app.streamlit.app) *(update after deploy)*
+🔗 **Live Demo:**(https://m3g4bwehqnud6ck35fgbwd.streamlit.app/)
 
 ---
 
@@ -104,11 +104,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here after deployment)*
-
----
 
 ## 📄 License
 
